@@ -1,0 +1,4 @@
+baseURL = 'https://notes.ossking.com/'
+languageCode = 'en-us'
+title = 'OSS King Notes'
+theme = 'PaperMod'
