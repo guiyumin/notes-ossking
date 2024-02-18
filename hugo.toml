@@ -2,3 +2,25 @@ baseURL = 'https://notes.ossking.com/'
 languageCode = 'en-us'
 title = 'OSS King Notes'
 theme = 'PaperMod'
+timeZone               = "America/Los_Angeles"
+
+paginate               = 20
+
+description = "ossking图床，一个至少运营十年的图床服务"
+tags = [
+  "多图上传",
+  "套图上传",
+  "免费图床",
+  "粘贴上传",
+  "运营十年",
+]
+
+[params]
+    [params.homeInfoParams]
+        title = "OSS King 图床服务"
+        content = """
+发布一些关于OSS King图床服务的消息，宣布一些事情，总结一些经验；希望大家能喜欢！
+
+有事请联系support#ossking.com
+
+"""
