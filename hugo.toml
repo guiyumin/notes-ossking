@@ -6,7 +6,8 @@ timeZone               = "America/Los_Angeles"
 
 paginate               = 20
 
-description = "ossking图床，一个至少运营十年的图床服务"
+
+
 tags = [
   "多图上传",
   "套图上传",
@@ -16,6 +17,13 @@ tags = [
 ]
 
 [params]
+    env = "production"
+    description = "ossking图床，一个至少运营十年的图床服务"
+    DateFormat =  "Monday, January 2, 2006"
+    ShowAllPagesInArchive = true
+    ShowFullTextinRSS = true
+
+  
     [params.homeInfoParams]
         title = "OSS King 图床服务"
         content = """
