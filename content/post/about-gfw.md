@@ -11,3 +11,9 @@ draft = false
 因为就像我[那篇关于十年之诺的文章](/post/about-the-promise-of-operating-for-ten-years/)讲的那样，我这种允许用户随便上传图片的图床网站，只是对图片做最低限度的审查(严禁炼铜、涉毒、涉恐等)，绝对不能被`GFW`容忍，被封禁是迟早的。
 
 我看的很开啊，图床是一个强需求，刚需，肯定能有用户的。
+
+### 2024 年 3 月 11 日更新
+
+域名已被微信拦截
+
+![域名已被微信拦截](https://notes-ossking-r2.ossking.com/domain-blocked-by-weixin.png)
