@@ -18,7 +18,7 @@ Open Source 的赚钱途径，有很多：
 
 4、靠生态赚钱，比如 Android，免费给手机厂商用，但你必须整合 Google 和 Google Play，于是 Google 就通过这个来赚广告费；至于为何国内的安卓手机没有 Google 和 Google Play，那是另一个故事了。世界上使用量最大的框架，WordPress，其靠生态赚钱。世界上最流行的 CMS，wordpress 的母公司，Automattic，开发和维护了 wordpres，但它是 GPL 协议，所以没办法收钱，但 wordpress 有一个最著名的插件，就是 woocommerce，能把你的 wordpress 网站轻松的转化为为一个电子商务网站。所以围绕着 woocommerce，有大量的插件和主题，都非常赚钱。
 
-5、打赏模式，这个不一定适合公司，但对于个人开发者来说，维护一个热门的开源库，很多人打赏，都能赚不少，比如 Vuejs，由于影响力巨大，很多公司捐钱给作者尤雨溪来维护的；当然，尤雨溪也到处演讲，赚了很多钱，买了跑车。当然，也包括罗永浩捐款的 OpenSSL, OpenBSD。这些开源组织都是非营利机构，但可以靠募捐或者卖会员的模式来取得收入。OpenStack，据说一个会员名额是 50 万美元每年吧。腾讯加入了 Linux Foundation，是白金会员。
+5、打赏模式或者说捐赠模式，这个不一定适合公司，但对于个人开发者来说，维护一个热门的开源库，很多人打赏，都能赚不少，比如 Vuejs，由于影响力巨大，很多公司捐钱给作者尤雨溪来维护的；当然，尤雨溪也到处演讲，赚了很多钱，买了跑车。当然，也包括罗永浩捐款的 OpenSSL, OpenBSD。这些开源组织都是非营利机构，但可以靠募捐或者卖会员的模式来取得收入。OpenStack，据说一个会员名额是 50 万美元每年吧。腾讯加入了 Linux Foundation，是白金会员。
 
 6、 Linus Torvalds，这个特例啊。由于 Linux 系统对互联网至关重要，Linux Foundation 支付他 1000 万美元每年来作为 Linux kernel 的唯一独裁者。
 
