@@ -20,3 +20,4 @@ draft = false
 
 - 太占硬盘空间了，我的 10GB 硬盘，这刚建了一个 wordpress 和 mysql，就只剩下 1GB 了
 - 占硬盘的原因，是他们使用了 docker，其实 1panel 就是一个管理 docker 的 UI，任何一个应用，都是 docker image，自然就很占硬盘
+- 而且我折腾半天，找不到怎么清理 docker image
