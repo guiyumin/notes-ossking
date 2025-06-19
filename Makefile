@@ -1,4 +1,4 @@
-.PHONY: start
+.PHONY: dev
 
-start:
+dev:
 	hugo server -w -D

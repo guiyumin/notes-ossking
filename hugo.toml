@@ -4,30 +4,34 @@ title = 'OSS King Notes'
 theme = 'PaperMod'
 timeZone               = "America/Los_Angeles"
 
-paginate               = 20
-
-
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+ 
 
 tags = [
-  "多图上传",
-  "套图上传",
-  "免费图床",
-  "粘贴上传",
-  "运营十年",
+  "文件分享",
+  "文件分享服务",
+  "大文件分享",
+  "文件分享服务",
+  "视频分享",
+  "视频分享服务",
+  "音频分享",
+  "音频分享服务",
 ]
 
 [params]
     env = "production"
-    description = "ossking图床，一个至少运营十年的图床服务"
+    description = "ossking文件分享服务，简约而不简单"
     DateFormat =  "Monday, January 2, 2006"
     ShowAllPagesInArchive = true
     ShowFullTextinRSS = true
 
   
     [params.homeInfoParams]
-        title = "OSS King 图床服务"
+        title = "OSS King 文件分享服务"
         content = """
-发布一些关于OSS King图床服务的消息，宣布一些事情，总结一些经验；希望大家能喜欢！
+发布一些关于OSS King文件分享服务的消息，宣布一些事情，总结一些经验；希望大家能喜欢！
 
 有事请联系support#ossking.com
 
