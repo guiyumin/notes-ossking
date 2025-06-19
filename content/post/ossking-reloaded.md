@@ -1,10 +1,8 @@
 +++
-title = 'Ossking Reloaded OSSKING 重新启航'
+title = 'Ossking Reloaded Ossking 重新启航'
 date = 2025-06-18T19:11:26-07:00
 draft = false
 +++
-
-## OSSKING 重新启航
 
 ### 我以前立下过壮志豪言，想建一个图床，还说要至少运营 10 年
 
